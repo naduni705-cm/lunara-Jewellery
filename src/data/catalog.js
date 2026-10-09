@@ -1,6 +1,6 @@
 export const products = [
   {
-    id: 'classic-moon-strand',
+    id: 'classic-moon-strand ',
     name: 'Classic Moon Strand',
     category: 'Necklaces',  
     price: 348,
